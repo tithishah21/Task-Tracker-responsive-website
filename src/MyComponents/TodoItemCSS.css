@@ -1,0 +1,24 @@
+.todobutton {
+    padding: 2px 9px;
+    text-transform: uppercase;
+    border-radius: 8px;
+    font-size: 14px;
+    font-weight: 700;
+    color: red;
+    text-shadow: none;
+    background: transparent;
+    cursor: pointer;
+    box-shadow: transparent;
+    border: 2px solid red;
+    transition: 0.5s ease;
+    
+  }
+  #bttn:hover{
+    color: #ffffff;
+    background: #ea0000;
+    border: 1px solid #ea0000;
+    text-shadow: 0 0 5px #ffffff, 0 0 10px #ffffff, 0 0 20px #ffffff;
+    box-shadow: 0 0 5px #ea0000, 0 0 20px #ea0000, 0 0 50px #ea0000,
+      0 0 100px #ea0000;
+  }
+  
