@@ -1,4 +1,3 @@
-Certainly! Based on your LinkedIn caption, here are some suggestions for content you could include in your README.md file on GitHub:
 
 Project Title: Task Tracker Website
 
